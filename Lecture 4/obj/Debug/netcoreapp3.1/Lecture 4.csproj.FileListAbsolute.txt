@@ -1,0 +1,13 @@
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\bin\Debug\netcoreapp3.1\Lecture 4.exe
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\bin\Debug\netcoreapp3.1\Lecture 4.deps.json
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\bin\Debug\netcoreapp3.1\Lecture 4.runtimeconfig.json
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\bin\Debug\netcoreapp3.1\Lecture 4.runtimeconfig.dev.json
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\bin\Debug\netcoreapp3.1\Lecture 4.dll
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\bin\Debug\netcoreapp3.1\Lecture 4.pdb
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\obj\Debug\netcoreapp3.1\Lecture 4.csprojAssemblyReference.cache
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\obj\Debug\netcoreapp3.1\Lecture 4.AssemblyInfoInputs.cache
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\obj\Debug\netcoreapp3.1\Lecture 4.AssemblyInfo.cs
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\obj\Debug\netcoreapp3.1\Lecture 4.csproj.CoreCompileInputs.cache
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\obj\Debug\netcoreapp3.1\Lecture 4.dll
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\obj\Debug\netcoreapp3.1\Lecture 4.pdb
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 4\obj\Debug\netcoreapp3.1\Lecture 4.genruntimeconfig.cache
