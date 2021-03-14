@@ -63,6 +63,10 @@ namespace Lecture_5
         {
             Console.WriteLine($"My name is {this.Name} and input name is {inputName}");
         }
+        public void SayHello( int myValue, string inputName)
+        {
+            Console.WriteLine($"My name is {this.Name} and input name is {inputName}");
+        }
 
         public void MyMethod(string name = "Saad", int someValue = 5, double someOtherValue = 2.5)
         {
