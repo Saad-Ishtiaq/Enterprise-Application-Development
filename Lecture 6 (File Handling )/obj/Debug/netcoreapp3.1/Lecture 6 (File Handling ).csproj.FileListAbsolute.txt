@@ -1,0 +1,13 @@
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\bin\Debug\netcoreapp3.1\Lecture 6 (File Handling ).exe
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\bin\Debug\netcoreapp3.1\Lecture 6 (File Handling ).deps.json
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\bin\Debug\netcoreapp3.1\Lecture 6 (File Handling ).runtimeconfig.json
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\bin\Debug\netcoreapp3.1\Lecture 6 (File Handling ).runtimeconfig.dev.json
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\bin\Debug\netcoreapp3.1\Lecture 6 (File Handling ).dll
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\bin\Debug\netcoreapp3.1\Lecture 6 (File Handling ).pdb
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\obj\Debug\netcoreapp3.1\Lecture 6 (File Handling ).csprojAssemblyReference.cache
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\obj\Debug\netcoreapp3.1\Lecture 6 (File Handling ).AssemblyInfoInputs.cache
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\obj\Debug\netcoreapp3.1\Lecture 6 (File Handling ).AssemblyInfo.cs
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\obj\Debug\netcoreapp3.1\Lecture 6 (File Handling ).csproj.CoreCompileInputs.cache
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\obj\Debug\netcoreapp3.1\Lecture 6 (File Handling ).dll
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\obj\Debug\netcoreapp3.1\Lecture 6 (File Handling ).pdb
+C:\Users\Saad Ishtiaq\Desktop\PUCIT Work\EAD\Lecture 6 (File Handling )\obj\Debug\netcoreapp3.1\Lecture 6 (File Handling ).genruntimeconfig.cache
