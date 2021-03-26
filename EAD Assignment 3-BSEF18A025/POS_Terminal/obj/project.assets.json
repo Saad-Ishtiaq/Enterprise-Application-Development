@@ -1,0 +1,229 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PosCustomerBO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PosCustomerBO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PosCustomerBO.dll": {}
+        }
+      },
+      "PosItemBO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PosItemBO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PosItemBO.dll": {}
+        }
+      },
+      "PosReceiptBO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PosReceiptBO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PosReceiptBO.dll": {}
+        }
+      },
+      "PosSaleBO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PosSaleBO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PosSaleBO.dll": {}
+        }
+      },
+      "PosSaleLineItemBO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PosSaleLineItemBO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PosSaleLineItemBO.dll": {}
+        }
+      },
+      "POS_BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "POS_DAL": "1.0.0",
+          "PosCustomerBO": "1.0.0",
+          "PosItemBO": "1.0.0",
+          "PosSaleBO": "1.0.0",
+          "PosSaleLineItemBO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/POS_BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/POS_BLL.dll": {}
+        }
+      },
+      "POS_DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PosCustomerBO": "1.0.0",
+          "PosItemBO": "1.0.0",
+          "PosReceiptBO": "1.0.0",
+          "PosSaleBO": "1.0.0",
+          "PosSaleLineItemBO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/POS_DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/POS_DAL.dll": {}
+        }
+      },
+      "POS_VIEW/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "POS_BLL": "1.0.0",
+          "PosCustomerBO": "1.0.0",
+          "PosItemBO": "1.0.0",
+          "PosReceiptBO": "1.0.0",
+          "PosSaleBO": "1.0.0",
+          "PosSaleLineItemBO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/POS_VIEW.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/POS_VIEW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PosCustomerBO/1.0.0": {
+      "type": "project",
+      "path": "../PosCustomerBO/PosCustomerBO.csproj",
+      "msbuildProject": "../PosCustomerBO/PosCustomerBO.csproj"
+    },
+    "PosItemBO/1.0.0": {
+      "type": "project",
+      "path": "../PosItemBO/PosItemBO.csproj",
+      "msbuildProject": "../PosItemBO/PosItemBO.csproj"
+    },
+    "PosReceiptBO/1.0.0": {
+      "type": "project",
+      "path": "../PosReceiptBO/PosReceiptBO.csproj",
+      "msbuildProject": "../PosReceiptBO/PosReceiptBO.csproj"
+    },
+    "PosSaleBO/1.0.0": {
+      "type": "project",
+      "path": "../PosSaleBO/PosSaleBO.csproj",
+      "msbuildProject": "../PosSaleBO/PosSaleBO.csproj"
+    },
+    "PosSaleLineItemBO/1.0.0": {
+      "type": "project",
+      "path": "../PosSaleLineItemBO/PosSaleLineItemBO.csproj",
+      "msbuildProject": "../PosSaleLineItemBO/PosSaleLineItemBO.csproj"
+    },
+    "POS_BLL/1.0.0": {
+      "type": "project",
+      "path": "../POS_BLL/POS_BLL.csproj",
+      "msbuildProject": "../POS_BLL/POS_BLL.csproj"
+    },
+    "POS_DAL/1.0.0": {
+      "type": "project",
+      "path": "../POS_DAL/POS_DAL.csproj",
+      "msbuildProject": "../POS_DAL/POS_DAL.csproj"
+    },
+    "POS_VIEW/1.0.0": {
+      "type": "project",
+      "path": "../POS_VIEW/POS_VIEW.csproj",
+      "msbuildProject": "../POS_VIEW/POS_VIEW.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "POS_VIEW >= 1.0.0",
+      "PosReceiptBO >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Saad Ishtiaq\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_Terminal\\POS_Terminal.csproj",
+      "projectName": "POS_Terminal",
+      "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_Terminal\\POS_Terminal.csproj",
+      "packagesPath": "C:\\Users\\Saad Ishtiaq\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_Terminal\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Saad Ishtiaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosReceiptBO\\PosReceiptBO.csproj": {
+              "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosReceiptBO\\PosReceiptBO.csproj"
+            },
+            "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_VIEW\\POS_VIEW.csproj": {
+              "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_VIEW\\POS_VIEW.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
