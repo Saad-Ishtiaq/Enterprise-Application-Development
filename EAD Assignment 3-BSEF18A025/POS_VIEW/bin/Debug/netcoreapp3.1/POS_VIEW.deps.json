@@ -1,0 +1,115 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "POS_VIEW/1.0.0": {
+        "dependencies": {
+          "POS_BLL": "1.0.0",
+          "PosCustomerBO": "1.0.0",
+          "PosItemBO": "1.0.0",
+          "PosReceiptBO": "1.0.0",
+          "PosSaleBO": "1.0.0",
+          "PosSaleLineItemBO": "1.0.0"
+        },
+        "runtime": {
+          "POS_VIEW.dll": {}
+        }
+      },
+      "PosCustomerBO/1.0.0": {
+        "runtime": {
+          "PosCustomerBO.dll": {}
+        }
+      },
+      "PosItemBO/1.0.0": {
+        "runtime": {
+          "PosItemBO.dll": {}
+        }
+      },
+      "PosReceiptBO/1.0.0": {
+        "runtime": {
+          "PosReceiptBO.dll": {}
+        }
+      },
+      "PosSaleBO/1.0.0": {
+        "runtime": {
+          "PosSaleBO.dll": {}
+        }
+      },
+      "PosSaleLineItemBO/1.0.0": {
+        "runtime": {
+          "PosSaleLineItemBO.dll": {}
+        }
+      },
+      "POS_BLL/1.0.0": {
+        "dependencies": {
+          "POS_DAL": "1.0.0",
+          "PosCustomerBO": "1.0.0",
+          "PosItemBO": "1.0.0",
+          "PosSaleBO": "1.0.0",
+          "PosSaleLineItemBO": "1.0.0"
+        },
+        "runtime": {
+          "POS_BLL.dll": {}
+        }
+      },
+      "POS_DAL/1.0.0": {
+        "dependencies": {
+          "PosCustomerBO": "1.0.0",
+          "PosItemBO": "1.0.0",
+          "PosReceiptBO": "1.0.0",
+          "PosSaleBO": "1.0.0",
+          "PosSaleLineItemBO": "1.0.0"
+        },
+        "runtime": {
+          "POS_DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POS_VIEW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PosCustomerBO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PosItemBO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PosReceiptBO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PosSaleBO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PosSaleLineItemBO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "POS_BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "POS_DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

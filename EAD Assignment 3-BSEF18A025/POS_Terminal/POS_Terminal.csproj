@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PosReceiptBO\PosReceiptBO.csproj" />
+    <ProjectReference Include="..\POS_VIEW\POS_VIEW.csproj" />
+  </ItemGroup>
+
+</Project>

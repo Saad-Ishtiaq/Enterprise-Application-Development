@@ -1,0 +1,539 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_VIEW\\POS_VIEW.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosCustomerBO\\PosCustomerBO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosCustomerBO\\PosCustomerBO.csproj",
+        "projectName": "PosCustomerBO",
+        "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosCustomerBO\\PosCustomerBO.csproj",
+        "packagesPath": "C:\\Users\\Saad Ishtiaq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosCustomerBO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Saad Ishtiaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosItemBO\\PosItemBO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosItemBO\\PosItemBO.csproj",
+        "projectName": "PosItemBO",
+        "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosItemBO\\PosItemBO.csproj",
+        "packagesPath": "C:\\Users\\Saad Ishtiaq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosItemBO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Saad Ishtiaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosReceiptBO\\PosReceiptBO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosReceiptBO\\PosReceiptBO.csproj",
+        "projectName": "PosReceiptBO",
+        "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosReceiptBO\\PosReceiptBO.csproj",
+        "packagesPath": "C:\\Users\\Saad Ishtiaq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosReceiptBO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Saad Ishtiaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleBO\\PosSaleBO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleBO\\PosSaleBO.csproj",
+        "projectName": "PosSaleBO",
+        "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleBO\\PosSaleBO.csproj",
+        "packagesPath": "C:\\Users\\Saad Ishtiaq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleBO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Saad Ishtiaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleLineItemBO\\PosSaleLineItemBO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleLineItemBO\\PosSaleLineItemBO.csproj",
+        "projectName": "PosSaleLineItemBO",
+        "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleLineItemBO\\PosSaleLineItemBO.csproj",
+        "packagesPath": "C:\\Users\\Saad Ishtiaq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleLineItemBO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Saad Ishtiaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_BLL\\POS_BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_BLL\\POS_BLL.csproj",
+        "projectName": "POS_BLL",
+        "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_BLL\\POS_BLL.csproj",
+        "packagesPath": "C:\\Users\\Saad Ishtiaq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Saad Ishtiaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosCustomerBO\\PosCustomerBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosCustomerBO\\PosCustomerBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosItemBO\\PosItemBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosItemBO\\PosItemBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleBO\\PosSaleBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleBO\\PosSaleBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleLineItemBO\\PosSaleLineItemBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleLineItemBO\\PosSaleLineItemBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_DAL\\POS_DAL.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_DAL\\POS_DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_DAL\\POS_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_DAL\\POS_DAL.csproj",
+        "projectName": "POS_DAL",
+        "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_DAL\\POS_DAL.csproj",
+        "packagesPath": "C:\\Users\\Saad Ishtiaq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Saad Ishtiaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosCustomerBO\\PosCustomerBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosCustomerBO\\PosCustomerBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosItemBO\\PosItemBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosItemBO\\PosItemBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosReceiptBO\\PosReceiptBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosReceiptBO\\PosReceiptBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleBO\\PosSaleBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleBO\\PosSaleBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleLineItemBO\\PosSaleLineItemBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleLineItemBO\\PosSaleLineItemBO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_VIEW\\POS_VIEW.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_VIEW\\POS_VIEW.csproj",
+        "projectName": "POS_VIEW",
+        "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_VIEW\\POS_VIEW.csproj",
+        "packagesPath": "C:\\Users\\Saad Ishtiaq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_VIEW\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Saad Ishtiaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosCustomerBO\\PosCustomerBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosCustomerBO\\PosCustomerBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosItemBO\\PosItemBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosItemBO\\PosItemBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosReceiptBO\\PosReceiptBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosReceiptBO\\PosReceiptBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleBO\\PosSaleBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleBO\\PosSaleBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleLineItemBO\\PosSaleLineItemBO.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\PosSaleLineItemBO\\PosSaleLineItemBO.csproj"
+              },
+              "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_BLL\\POS_BLL.csproj": {
+                "projectPath": "C:\\Users\\Saad Ishtiaq\\Desktop\\EAD Assignment 3-BSEF18A025\\POS_BLL\\POS_BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

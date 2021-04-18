@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="PosVIEW.cs~RF155a644d.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PosCustomerBO\PosCustomerBO.csproj" />
+    <ProjectReference Include="..\PosItemBO\PosItemBO.csproj" />
+    <ProjectReference Include="..\PosReceiptBO\PosReceiptBO.csproj" />
+    <ProjectReference Include="..\PosSaleBO\PosSaleBO.csproj" />
+    <ProjectReference Include="..\PosSaleLineItemBO\PosSaleLineItemBO.csproj" />
+    <ProjectReference Include="..\POS_BLL\POS_BLL.csproj" />
+  </ItemGroup>
+
+</Project>
