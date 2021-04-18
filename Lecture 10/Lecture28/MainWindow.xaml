@@ -1,0 +1,29 @@
+﻿<Window x:Class="Lecture28.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lecture28"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <DockPanel LastChildFill="True">
+        <Label DockPanel.Dock="Top" HorizontalContentAlignment="Center" Content="Point of Sale System" Background="#FFD66530"></Label>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="File">
+                <MenuItem Header="New" Click="MenuItem_Click"/>
+                <MenuItem Header="Open"/>
+                <MenuItem Header="Close"/>
+            </MenuItem>
+            <MenuItem Header="Edit"/>
+            <MenuItem Header="View"/>
+        </Menu>
+        <Label DockPanel.Dock="Bottom" HorizontalContentAlignment="Center" Content="Status" Background="#FFF39569"></Label>
+        <Label DockPanel.Dock="Left" HorizontalContentAlignment="Center" Content="Left-Bar" Background="#FF67F1AC"></Label>
+        <Label DockPanel.Dock="Right" HorizontalContentAlignment="Center" Content="Right-Bar" Background="#FF67F1AC"></Label>
+        <Label HorizontalContentAlignment="Center" Content="Last Child (LastChildFill=True)" Background="#FFB8E4D2"></Label>
+
+
+    </DockPanel>
+
+</Window>
